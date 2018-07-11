@@ -10,6 +10,7 @@ http://interface.khm.de/index.php/lab/interfaces-advanced/sleep_watchdog_battery
 Wifi:
 https://medium.com/@cgrant/using-the-esp8266-wifi-module-with-arduino-uno-publishing-to-thingspeak-99fc77122e82
 https://fullyloadedgeek.com/2016/01/31/esp8266-ifttt/
+http://www.instructables.com/id/Add-WiFi-to-Arduino-UNO/
 
 Posting to Twitter:
 https://randomnerdtutorials.com/posting-a-tweet-with-the-esp8266
