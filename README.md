@@ -11,4 +11,5 @@ Wifi:
 https://medium.com/@cgrant/using-the-esp8266-wifi-module-with-arduino-uno-publishing-to-thingspeak-99fc77122e82
 
 Posting to Twitter:
-https://randomnerdtutorials.com/posting-a-tweet-with-the-esp8266/
+https://randomnerdtutorials.com/posting-a-tweet-with-the-esp8266
+http://www.instructables.com/id/ESP8266-to-IFTTT-Using-Arduino-IDE/
