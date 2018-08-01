@@ -15,3 +15,6 @@ http://www.instructables.com/id/Add-WiFi-to-Arduino-UNO/
 Posting to Twitter:
 https://randomnerdtutorials.com/posting-a-tweet-with-the-esp8266
 http://www.instructables.com/id/ESP8266-to-IFTTT-Using-Arduino-IDE/
+
+Doing away with the Arduino board:
+https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard
