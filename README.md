@@ -5,7 +5,8 @@ Useful resources during development:
 
 Power saving:<br/>
 https://blog.adafruit.com/2012/03/27/ask-an-educator-is-there-a-way-for-an-arduino-to-turn-itself-off/<br/>
-http://interface.khm.de/index.php/lab/interfaces-advanced/sleep_watchdog_battery/
+http://interface.khm.de/index.php/lab/interfaces-advanced/sleep_watchdog_battery/<br/>
+https://www.instructables.com/id/Enable-DeepSleep-on-an-ESP8266-01/
 
 Wifi:<br/>
 https://medium.com/@cgrant/using-the-esp8266-wifi-module-with-arduino-uno-publishing-to-thingspeak-99fc77122e82<br/>
